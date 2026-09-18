@@ -42,3 +42,4 @@
 ## Work log
 
 - 2026-09-18: Created the bilingual site with current Q-Net facts and the apricot circuit-schematic visual direction. Production deployment evidence will be appended after publication.
+- 2026-09-18: GitHub Pages deployment run `35356767358` passed. Production QA returned HTTP 200 for all 34 sitemap routes and sampled assets, HTTP 404 for a missing route, confirmed deployed `word-break: keep-all`, exact live Google Play HTTP 200 and Apple lookup result count 1 with track ID `6797294663`.
